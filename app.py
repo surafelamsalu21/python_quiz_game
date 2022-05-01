@@ -39,3 +39,4 @@ else:
     print("Incorrect!\n")
 
 print(f"The total result is: {score} out of 4")
+print(f"You answered {(score/4)*100}%")
